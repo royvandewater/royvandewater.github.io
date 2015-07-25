@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Roy believes that everyone wants to do great things. However, he feels that most organizations have set themselves up for failure by installing the same bureaucracy that they see in the top companies with the well-intentioned but misguided belief that it will help them scale with no cost to innovation.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+In order to regain the innovation that led to the organization’s initial success, he believes they must create teams with members that have trust and respect in each other and the vision of the product, combined with the autonomy to pursue that vision.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Roy works with these teams and the organizations around them to make some pretty serious changes to their culture to enable the teams and eventually the entire organization to achieve their potential.
